@@ -34,7 +34,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=shadowedj33&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api?username=shadowedj33&show_icons=true&theme=radical&hide_rank=true" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=shadowedj33&theme=radical&border_radius=10" />
   <br/>
