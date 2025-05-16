@@ -38,7 +38,7 @@
   <br/>
   <img src="https://streak-stats.demolab.com?user=shadowedj33&theme=radical&border_radius=10" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowedj33&layout=compact&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shadowedj33&layout=compact&theme=radical&size_weight=0.15&count_weight=0.85" />
 </p>
 
 ---
